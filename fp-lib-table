@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "DailywellSwitches")(type "KiCad")(uri "${KIPRJMOD}/KicadLibrary/footprint/SWITCHES/DailywellSwitches.pretty")(options "")(descr ""))
+)

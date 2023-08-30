@@ -1,0 +1,3 @@
+[submodule "KicadLibrary"]
+	path = KicadLibrary
+	url = https://github.com/cracked-machine/KicadLibrary.git
